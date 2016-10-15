@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\opeRaptor\Documents\KiCad\q6150PSU\q6150PSU.sch)
-    (date "15/10/2016 12:21:16")
+    (date "15/10/2016 12:19:18")
     (tool "Eeschema 4.0.2-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
